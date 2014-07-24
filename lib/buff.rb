@@ -1,7 +1,7 @@
 require "faraday_middleware"
 require "faraday"
 require "json"
-require "rash"
+require "hashie"
 require "addressable/uri"
 
 require_relative "buff/version"
